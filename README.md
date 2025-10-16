@@ -1,4 +1,4 @@
-# 🚀 Curated List of DevOps Tools
+<img width="1284" height="358" alt="image" src="https://github.com/user-attachments/assets/d08e8bd0-1292-4c06-b3bd-3f30edd02544" /># 🚀 Curated List of DevOps Tools
 ![Alt Text](assets/GitHub.png)
 # Your Ultimate DevOps Toolkit! 🛠️
 ![Alt Text](assets/DevOps.jpg)
@@ -44,17 +44,20 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 
 Development environment tools **streamline the setup** of consistent software configurations, ensuring **fast recovery and higher developer productivity**.
 
-# ⚡ Virtualization and Containerization
+# ⚡ Virtualization and Containerization<br>
+
 🔹 [VirtualBox](https://www.virtualbox.org/) (Open Source) – Enterprise-grade virtualization for x86 and AMD64/Intel64 systems.<br>
 🔹 [QEMU](https://www.qemu.org/) (Open Source) – Open-source machine emulator and virtualizer.<br>
 🔹 [Vagrant](https://developer.hashicorp.com/vagrant) (Open Source) – Automates the setup and management of virtual machines.<br>
 
-# 🛠️ Containerized Development
+# 🛠️ Containerized Development<br>
+
 🔹 [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Open Source) – Simplifies containerized application development.<br>
 🔹 [Podman Desktop](https://podman.io/) (Open Source) – A daemonless container engine for Linux environments.<br>
 🔹 [Rancher Desktop](https://rancherdesktop.io/) (Open Source) – Manage and deploy Kubernetes clusters locally.<br>
 
-# ☸ Kubernetes Local Clusters
+# ☸ Kubernetes Local Clusters<br>
+
 🔹 [Minikube](https://minikube.sigs.k8s.io/docs/) (Open Source) – Run Kubernetes clusters locally with ease.<br>
 🔹 [Minishift](https://okd.io/minishift/) (Open Source) – Deploy a single-node OpenShift cluster in a VM.<br>
 🔹 [kind](https://kind.sigs.k8s.io/) (Open Source) – Spin up Kubernetes clusters using Docker containers.<br>
