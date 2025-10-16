@@ -46,4 +46,4 @@ Development environment tools **streamline the setup** of consistent software co
 
 # ⚡ Virtualization and Containerization
 
-🔹 [VirtualBox](https://www.virtualbox.org/)
+🔹 [VirtualBox](https://www.virtualbox.org/)(Open Source) – Enterprise-grade virtualization for x86 and AMD64/Intel64 systems.
