@@ -1,4 +1,4 @@
-<img width="1284" height="358" alt="image" src="https://github.com/user-attachments/assets/d08e8bd0-1292-4c06-b3bd-3f30edd02544" /># 🚀 Curated List of DevOps Tools
+🚀 Curated List of DevOps Tools
 ![Alt Text](assets/GitHub.png)
 # Your Ultimate DevOps Toolkit! 🛠️
 ![Alt Text](assets/DevOps.jpg)
