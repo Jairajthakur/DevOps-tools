@@ -49,13 +49,11 @@ Development environment tools **streamline the setup** of consistent software co
 🔹 [VirtualBox](https://www.virtualbox.org/) (Open Source) – Enterprise-grade virtualization for x86 and AMD64/Intel64 systems.<br>
 🔹 [QEMU](https://www.qemu.org/) (Open Source) – Open-source machine emulator and virtualizer.<br>
 🔹 [Vagrant](https://developer.hashicorp.com/vagrant) (Open Source) – Automates the setup and management of virtual machines.<br>
-
 # 🛠️ Containerized Development
 
 🔹 [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Open Source) – Simplifies containerized application development.<br>
 🔹 [Podman Desktop](https://podman.io/) (Open Source) – A daemonless container engine for Linux environments.<br>
 🔹 [Rancher Desktop](https://rancherdesktop.io/) (Open Source) – Manage and deploy Kubernetes clusters locally.<br>
-
 # ☸ Kubernetes Local Clusters
 
 🔹 [Minikube](https://minikube.sigs.k8s.io/docs/) (Open Source) – Run Kubernetes clusters locally with ease.<br>
