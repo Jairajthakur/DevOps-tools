@@ -1,9 +1,8 @@
 # 🚀 Curated List of DevOps Tools
 ![Alt Text](assets/GitHub.png)
+---
 # Your Ultimate DevOps Toolkit! 🛠️
 ![Alt Text](assets/DevOps.jpg)
-
----
 
 A collection of essential DevOps tools for **development, deployment, monitoring, automation, security, and more**. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!
 
@@ -11,7 +10,7 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 
 # 📌 Table of Contents
 🚀 [Development Environment Tools](#Development-Environment-Tools)<br>
-📝 [Source Code Management (SCM)](#Source-Code-Management-(SCM))<br>
+📝 [Source Code Management (SCM)](#SourceCodeManagement(SCM))<br>
 ⚙️ [Build Tools](#Build-Tools)<br>
 ⚡ [Continuous Integration (CI) Tools](#Continuous-Interation-(CI)-Tools)<br>
 📦 [Artifact Management Tools](#Artifact-Management-Tools)<br>
@@ -45,23 +44,16 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 ---
 
 # Development Environment Tools
-
 Development environment tools **streamline the setup** of consistent software configurations, ensuring **fast recovery and higher developer productivity**.
-
 ## ⚡ Virtualization and Containerization<br>
-
 🔹 [VirtualBox](https://www.virtualbox.org/) (Open Source) – Enterprise-grade virtualization for x86 and AMD64/Intel64 systems.<br>
 🔹 [QEMU](https://www.qemu.org/) (Open Source) – Open-source machine emulator and virtualizer.<br>
 🔹 [Vagrant](https://developer.hashicorp.com/vagrant) (Open Source) – Automates the setup and management of virtual machines.<br>
-
 ## 🛠️ Containerized Development<br>
-
 🔹 [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Open Source) – Simplifies containerized application development.<br>
 🔹 [Podman Desktop](https://podman.io/) (Open Source) – A daemonless container engine for Linux environments.<br>
 🔹 [Rancher Desktop](https://rancherdesktop.io/) (Open Source) – Manage and deploy Kubernetes clusters locally.<br>
-
 ## ☸ Kubernetes Local Clusters<br>
-
 🔹 [Minikube](https://minikube.sigs.k8s.io/docs/) (Open Source) – Run Kubernetes clusters locally with ease.<br>
 🔹 [Minishift](https://okd.io/minishift/) (Open Source) – Deploy a single-node OpenShift cluster in a VM.<br>
 🔹 [kind](https://kind.sigs.k8s.io/) (Open Source) – Spin up Kubernetes clusters using Docker containers.<br>
@@ -70,11 +62,8 @@ Development environment tools **streamline the setup** of consistent software co
 ---
 
 # Source Code Management (SCM)
-
 Version control tools **keep track of every change**, making collaboration and automation seamless in DevOps.
-
 ## 🌍 Cloud-Based SCM Platforms
-
 🔹 [GitHub](https://github.com/) (Free & Paid) – The most popular Git-based repository hosting platform.<br>
 🔹 [Bitbucket](https://bitbucket.org/) (Free & Paid) – SCM solution by Atlassian, supports Git & Mercurial.<br>
 🔹 [GitLab](https://about.gitlab.com/) (Free & Paid) – Complete DevOps platform with CI/CD integration.<br>
