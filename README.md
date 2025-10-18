@@ -46,9 +46,9 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 ---
 
 # Development Environment Tools
----
+
 Development environment tools **streamline the setup** of consistent software configurations, ensuring **fast recovery and higher developer productivity**.
----
+
 ## ⚡ Virtualization and Containerization<br>
 🔹 [VirtualBox](https://www.virtualbox.org/) (Open Source) – Enterprise-grade virtualization for x86 and AMD64/Intel64 systems.<br>
 🔹 [QEMU](https://www.qemu.org/) (Open Source) – Open-source machine emulator and virtualizer.<br>
@@ -66,9 +66,8 @@ Development environment tools **streamline the setup** of consistent software co
 ---
 
 # Source Code Management (SCM)
--------------
 Version control tools **keep track of every change**, making collaboration and automation seamless in DevOps.
----
+
 ## 🌍 Cloud-Based SCM Platforms
 🔹 [GitHub](https://github.com/) (Free & Paid) – The most popular Git-based repository hosting platform.<br>
 🔹 [Bitbucket](https://bitbucket.org/) (Free & Paid) – SCM solution by Atlassian, supports Git & Mercurial.<br>
