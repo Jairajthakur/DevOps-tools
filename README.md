@@ -66,7 +66,7 @@ Development environment tools **streamline the setup** of consistent software co
 ---
 
 # Source Code Management (SCM)
----
+-------------
 Version control tools **keep track of every change**, making collaboration and automation seamless in DevOps.
 ---
 ## 🌍 Cloud-Based SCM Platforms
