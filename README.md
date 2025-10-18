@@ -44,30 +44,31 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 
 Development environment tools **streamline the setup** of consistent software configurations, ensuring **fast recovery and higher developer productivity**.
 
-# ⚡ Virtualization and Containerization<br>
+## ⚡ Virtualization and Containerization<br>
 
 🔹 [VirtualBox](https://www.virtualbox.org/) (Open Source) – Enterprise-grade virtualization for x86 and AMD64/Intel64 systems.<br>
 🔹 [QEMU](https://www.qemu.org/) (Open Source) – Open-source machine emulator and virtualizer.<br>
 🔹 [Vagrant](https://developer.hashicorp.com/vagrant) (Open Source) – Automates the setup and management of virtual machines.<br>
 
-# 🛠️ Containerized Development<br>
+## 🛠️ Containerized Development<br>
 
 🔹 [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Open Source) – Simplifies containerized application development.<br>
 🔹 [Podman Desktop](https://podman.io/) (Open Source) – A daemonless container engine for Linux environments.<br>
 🔹 [Rancher Desktop](https://rancherdesktop.io/) (Open Source) – Manage and deploy Kubernetes clusters locally.<br>
 
-# ☸ Kubernetes Local Clusters<br>
+## ☸ Kubernetes Local Clusters<br>
 
 🔹 [Minikube](https://minikube.sigs.k8s.io/docs/) (Open Source) – Run Kubernetes clusters locally with ease.<br>
 🔹 [Minishift](https://okd.io/minishift/) (Open Source) – Deploy a single-node OpenShift cluster in a VM.<br>
 🔹 [kind](https://kind.sigs.k8s.io/) (Open Source) – Spin up Kubernetes clusters using Docker containers.<br>
 🔹 [k3d](https://k3d.io/stable/) (Open Source) – Lightweight wrapper for running k3s in Docker.<br>
 
+
 # 📝 Source Code Management (SCM)
 
 Version control tools **keep track of every change**, making collaboration and automation seamless in DevOps.
 
-# 🌍 Cloud-Based SCM Platforms
+## 🌍 Cloud-Based SCM Platforms
 
 🔹 [GitHub](https://github.com/) (Free & Paid) – The most popular Git-based repository hosting platform.<br>
 🔹 [Bitbucket](https://bitbucket.org/) (Free & Paid) – SCM solution by Atlassian, supports Git & Mercurial.<br>
