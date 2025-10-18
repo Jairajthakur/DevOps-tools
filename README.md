@@ -63,4 +63,16 @@ Development environment tools **streamline the setup** of consistent software co
 🔹 [kind](https://kind.sigs.k8s.io/) (Open Source) – Spin up Kubernetes clusters using Docker containers.<br>
 🔹 [k3d](https://k3d.io/stable/) (Open Source) – Lightweight wrapper for running k3s in Docker.<br>
 
+# 📝 Source Code Management (SCM)
+
+Version control tools **keep track of every change**, making collaboration and automation seamless in DevOps.
+
+# 🌍 Cloud-Based SCM Platforms
+
+🔹 [GitHub](https://github.com/) (Free & Paid) – The most popular Git-based repository hosting platform.
+🔹 [Bitbucket](https://bitbucket.org/) (Free & Paid) – SCM solution by Atlassian, supports Git & Mercurial.
+🔹 [GitLab](https://about.gitlab.com/) (Free & Paid) – Complete DevOps platform with CI/CD integration.
+🔹 [Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos/) (Free & Paid) – Cloud-based Git & TFVC repositories.
+🔹 [AWS CodeCommit](https://aws.amazon.com/codecommit/) (Free & Paid) – Fully-managed Git hosting by AWS.
+🔹 [Google Cloud Source Repositories](https://cloud.google.com/source-repositories/docs/) (Free & Paid) – Scalable, private Git repositories on Google Cloud.
 
