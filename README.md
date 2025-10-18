@@ -64,7 +64,7 @@ Development environment tools **streamline the setup** of consistent software co
 🔹 [k3d](https://k3d.io/stable/) (Open Source) – Lightweight wrapper for running k3s in Docker.<br>
 
 
-# 📝 Source Code Management (SCM)
+# Source Code Management (SCM)
 
 Version control tools **keep track of every change**, making collaboration and automation seamless in DevOps.
 
