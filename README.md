@@ -1,10 +1,13 @@
-🚀 Curated List of DevOps Tools
+# 🚀 Curated List of DevOps Tools
 ![Alt Text](assets/GitHub.png)
 # Your Ultimate DevOps Toolkit! 🛠️
 ![Alt Text](assets/DevOps.jpg)
 
+---
+
 A collection of essential DevOps tools for **development, deployment, monitoring, automation, security, and more**. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!
 
+---
 
 # 📌 Table of Contents
 🚀 [Development Environment Tools](#Development-Environment-Tools)<br>
@@ -39,6 +42,7 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 ☁️ [Cloud Provider](Cloud-Provider)<br>
 🎯 [Conclusion: Choosing the Right DevOps Tools](Conclusion-Choosing-the-Right-DevOps-Tools)<br>
 
+---
 
 # Development Environment Tools
 
@@ -63,6 +67,7 @@ Development environment tools **streamline the setup** of consistent software co
 🔹 [kind](https://kind.sigs.k8s.io/) (Open Source) – Spin up Kubernetes clusters using Docker containers.<br>
 🔹 [k3d](https://k3d.io/stable/) (Open Source) – Lightweight wrapper for running k3s in Docker.<br>
 
+---
 
 # Source Code Management (SCM)
 
