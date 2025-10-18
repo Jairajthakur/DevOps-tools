@@ -8,7 +8,7 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 
 # 📌 Table of Contents
 🚀 [Development Environment Tools](#Development-Environment-Tools)<br>
-📝 [Source Code Management (SCM)](#Source-Code-Management)<br>
+📝 [Source Code Management (SCM)](#Source-Code-Management-(SCM))<br>
 ⚙️ [Build Tools](#Build-Tools)<br>
 ⚡ [Continuous Integration (CI) Tools](#Continuous-Interation-(CI)-Tools)<br>
 📦 [Artifact Management Tools](#Artifact-Management-Tools)<br>
@@ -69,10 +69,10 @@ Version control tools **keep track of every change**, making collaboration and a
 
 # 🌍 Cloud-Based SCM Platforms
 
-🔹 [GitHub](https://github.com/) (Free & Paid) – The most popular Git-based repository hosting platform.
-🔹 [Bitbucket](https://bitbucket.org/) (Free & Paid) – SCM solution by Atlassian, supports Git & Mercurial.
-🔹 [GitLab](https://about.gitlab.com/) (Free & Paid) – Complete DevOps platform with CI/CD integration.
-🔹 [Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos/) (Free & Paid) – Cloud-based Git & TFVC repositories.
-🔹 [AWS CodeCommit](https://aws.amazon.com/codecommit/) (Free & Paid) – Fully-managed Git hosting by AWS.
-🔹 [Google Cloud Source Repositories](https://cloud.google.com/source-repositories/docs/) (Free & Paid) – Scalable, private Git repositories on Google Cloud.
+🔹 [GitHub](https://github.com/) (Free & Paid) – The most popular Git-based repository hosting platform.<br>
+🔹 [Bitbucket](https://bitbucket.org/) (Free & Paid) – SCM solution by Atlassian, supports Git & Mercurial.<br>
+🔹 [GitLab](https://about.gitlab.com/) (Free & Paid) – Complete DevOps platform with CI/CD integration.<br>
+🔹 [Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos/) (Free & Paid) – Cloud-based Git & TFVC repositories.<br>
+🔹 [AWS CodeCommit](https://aws.amazon.com/codecommit/) (Free & Paid) – Fully-managed Git hosting by AWS.<br>
+🔹 [Google Cloud Source Repositories](https://cloud.google.com/source-repositories/docs/) (Free & Paid) – Scalable, private Git repositories on Google Cloud.<br>
 
