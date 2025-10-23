@@ -77,11 +77,11 @@ Version control tools **keep track of every change**, making collaboration and a
 🔹 [Google Cloud Source Repositories](https://cloud.google.com/source-repositories/docs/) (Free & Paid) – Scalable, private Git repositories on Google Cloud.<br>
 
 ## 🔧 Self-Hosted & Open-Source SCM
-🔹 [Codeberg](https://codeberg.org/) (Free & Paid) – Community-driven Forgejo instance.
-🔹 [Forgejo](https://forgejo.org/) (Open Source) – Self-hosted Git service, a Gitea fork.
-🔹 [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) (Free) – SCM with a built-in wiki & issue tracker.
-🔹 [Gitea](https://about.gitea.com/) (Open Source) – Lightweight self-hosted Git service.
-🔹 [Gogs](https://gogs.io/) (Open Source) – Simple, self-hosted Git repository system.
+🔹 [Codeberg](https://codeberg.org/) (Free & Paid) – Community-driven Forgejo instance.</br>
+🔹 [Forgejo](https://forgejo.org/) (Open Source) – Self-hosted Git service, a Gitea fork.</br>
+🔹 [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) (Free) – SCM with a built-in wiki & issue tracker.</br>
+🔹 [Gitea](https://about.gitea.com/) (Open Source) – Lightweight self-hosted Git service.</br>
+🔹 [Gogs](https://gogs.io/) (Open Source) – Simple, self-hosted Git repository system.</br>
 
 ---
 
@@ -90,18 +90,18 @@ Version control tools **keep track of every change**, making collaboration and a
 Build tools automate software compilation and **generate deployable artifacts** efficiently.
 
 ## ☕ Java & JVM-Based Builds
-🔹 [Maven](https://maven.apache.org/) (Java) (Open Source) – A comprehensive project management and build tool.
-🔹 [Gradle](https://gradle.org/) (Java, Kotlin, Groovy, Scala, Python, C++) (Free & Paid) – High-performance build automation.
+🔹 [Maven](https://maven.apache.org/) (Java) (Open Source) – A comprehensive project management and build tool.</br>
+🔹 [Gradle](https://gradle.org/) (Java, Kotlin, Groovy, Scala, Python, C++) (Free & Paid) – High-performance build automation.</br>
 
 ## 📦 JavaScript & Web Development
-🔹 [npm](https://www.npmjs.com/) (JavaScript) – The package manager for Node.js applications.
+🔹 [npm](https://www.npmjs.com/) (JavaScript) – The package manager for Node.js applications.</br>
 
 ## 💎 Ruby & .NET Build Systems
-🔹 [Rake](https://ruby.github.io/rake/) (Ruby) (Open Source) – Task management and build automation for Ruby projects.
-🔹 [MSBuild](https://github.com/dotnet/msbuild) (.NET) (Open Source) – The official build system for **.NET applications**.
+🔹 [Rake](https://ruby.github.io/rake/) (Ruby) (Open Source) – Task management and build automation for Ruby projects.</br>
+🔹 [MSBuild](https://github.com/dotnet/msbuild) (.NET) (Open Source) – The official build system for **.NET applications**.</br>
 
 ## 🐍 Python Build Tools
-🔹 [Pybuilder](https://pybuilder.io/) (Python) (Open Source) – A lightweight tool for Python project automation.
+🔹 [Pybuilder](https://pybuilder.io/) (Python) (Open Source) – A lightweight tool for Python project automation.</br>
 
 
 ---
@@ -111,15 +111,27 @@ Build tools automate software compilation and **generate deployable artifacts** 
 Continuous Integration (CI) automates code integrations, providing **instant feedback** on changes. This helps teams **detect and resolve issues faster**, reducing software release cycles.
 
 ## 🚀 Popular CI/CD Platforms
-🔹 [Jenkins](https://www.jenkins.io/) (Open Source) – Java-based automation server with Groovy-based pipeline support.
-🔹 [GitHub Actions](https://github.com/features/actions) (Free & Enterprise) – Built-in CI/CD for GitHub repositories.
-🔹 [GitLab CI/CD](https://docs.gitlab.com/ci/) (Free & Enterprise) – YAML-based pipelines, cloud and self-hosted.
-🔹 [CircleCI](https://circleci.com/) (Free & Paid) – Cloud-based CI/CD, YAML-configured workflows.
-🔹 [Drone](https://www.drone.io/) (Free & Paid) – Container-first CI/CD, self-hosted or cloud-based.
+🔹 [Jenkins](https://www.jenkins.io/) (Open Source) – Java-based automation server with Groovy-based pipeline support.</br>
+🔹 [GitHub Actions](https://github.com/features/actions) (Free & Enterprise) – Built-in CI/CD for GitHub repositories.</br>
+🔹 [GitLab CI/CD](https://docs.gitlab.com/ci/) (Free & Enterprise) – YAML-based pipelines, cloud and self-hosted.</br>
+🔹 [CircleCI](https://circleci.com/) (Free & Paid) – Cloud-based CI/CD, YAML-configured workflows.</br>
+🔹 [Drone](https://www.drone.io/) (Free & Paid) – Container-first CI/CD, self-hosted or cloud-based.</br>
 
 ## 🏗️ Enterprise & Commercial Solutions
-🔹 [TeamCity](https://www.jetbrains.com/teamcity/) (Free & Enterprise) – JetBrains' powerful CI/CD tool.
-🔹 [Travis CI](https://www.travis-ci.com/) (Open Source) – Cloud-native CI for GitHub repositories.
-🔹 [Bamboo](https://www.atlassian.com/software/bamboo) (Free & Enterprise) – Atlassian's CI/CD solution with tight Jira integration.
-🔹 [RazorOps CICD](https://razorops.com/) (Free & Paid) – Container-first CI/CD SaaS and on-premises solutions.
-🔹 [Buildkite](https://buildkite.com/) (Free & Paid) – Self-hosted CI/CD with scalable build agents.
+🔹 [TeamCity](https://www.jetbrains.com/teamcity/) (Free & Enterprise) – JetBrains' powerful CI/CD tool.</br>
+🔹 [Travis CI](https://www.travis-ci.com/) (Open Source) – Cloud-native CI for GitHub repositories.</br>
+🔹 [Bamboo](https://www.atlassian.com/software/bamboo) (Free & Enterprise) – Atlassian's CI/CD solution with tight Jira integration.</br>
+🔹 [RazorOps CICD](https://razorops.com/) (Free & Paid) – Container-first CI/CD SaaS and on-premises solutions.</br>
+🔹 [Buildkite](https://buildkite.com/) (Free & Paid) – Self-hosted CI/CD with scalable build agents.</br>
+
+
+---
+
+# 📦 Artifact Management Tools
+
+Artifact management tools store and version **compiled binaries and dependencies**, ensuring consistency across deployments.
+
+🔹 [Nexus](https://www.sonatype.com/products/nexus-community-edition-download) (Free & Enterprise) – Universal repository manager supporting multiple formats.</br>
+🔹 [JFrog Artifactory](https://jfrog.com/artifactory/) (Enterprise) – End-to-end binary and artifact management solution.</br>
+🔹 [npm](https://www.npmjs.com/) (Free) – JavaScript package manager for dependency management.</br>
+🔹 [NuGet](https://www.nuget.org/) (.NET) (Free) – Package manager for .NET libraries and applications.</br>
