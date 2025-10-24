@@ -135,3 +135,16 @@ Artifact management tools store and version **compiled binaries and dependencies
 🔹 [JFrog Artifactory](https://jfrog.com/artifactory/) (Enterprise) – End-to-end binary and artifact management solution.</br>
 🔹 [npm](https://www.npmjs.com/) (Free) – JavaScript package manager for dependency management.</br>
 🔹 [NuGet](https://www.nuget.org/) (.NET) (Free) – Package manager for .NET libraries and applications.</br>
+
+# 🔍 Code Analysis Tools
+Code analysis tools identify bugs, security flaws, and code quality issues before deployment, helping developers improve software reliability.
+
+## 🛡 Types of Code Analysis
+✔ Static Analysis (SAST) – Scans source code without executing it to detect vulnerabilities and bad practices.
+✔ Dynamic Analysis (DAST) – Runs the application to uncover performance bottlenecks and security flaws.
+
+## 📊 Top Code Analysis Tools
+🔹 [SonarQube](https://www.sonarsource.com/products/sonarqube/) (Free & Enterprise) – Automates static code reviews to detect bugs, security issues, and code smells.
+🔹 [Checkmarx](https://checkmarx.com/) (Enterprise) – Advanced SAST tool for identifying security vulnerabilities.
+🔹 [PMD](https://pmd.github.io/) (Open Source) – Multi-language static code analyzer for detecting common programming mistakes.
+🔹 [Acunetix](https://www.acunetix.com/) (Enterprise) – DAST web vulnerability scanner that autonomously detects security risks.
