@@ -16,7 +16,7 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 ⚙️ [Build Tools](#Build-Tools)<br>
 ⚡ [Continuous Integration (CI) Tools](#Continuous-Interation-(CI)-Tools)<br>
 📦 [Artifact Management Tools](#Artifact-Management-Tools)<br>
-🔍 [Code Analysis Tools](code-analysis-tools)<br>
+🔍 [Code Analysis Tools](#code-analysis-tools)<br>
 ⚡ [Continuous Delivery (CD) & GitOps Tools](Continuous-Delivery-(CD)-&-GitOps-Tools)<br>
 🏗️ [Infrastructure Provisioning Tools](Infrastructure-Provisioning-Tools)<br>
 🔄 [Backup & Restoration Tools](Backup-&-Restoration-Tools)<br>
