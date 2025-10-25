@@ -148,3 +148,41 @@ Code analysis tools identify bugs, security flaws, and code quality issues befor
 🔹 [Checkmarx](https://checkmarx.com/) (Enterprise) – Advanced SAST tool for identifying security vulnerabilities.</br>
 🔹 [PMD](https://pmd.github.io/) (Open Source) – Multi-language static code analyzer for detecting common programming mistakes.</br>
 🔹 [Acunetix](https://www.acunetix.com/) (Enterprise) – DAST web vulnerability scanner that autonomously detects security risks.</br>
+
+# ⚡ Continuous Delivery (CD) & GitOps Tools
+Continuous Delivery (CD) ensures that software can be reliably deployed at any time, enabling frequent releases with minimal risk. GitOps, a subset of DevOps, leverages Git as a single source of truth to manage declarative infrastructure and applications.</br>
+
+## 🚀 Popular Continuous Delivery & GitOps Tools
+🔹 [Jenkins](https://www.jenkins.io/) (Open Source) – Industry-leading automation server for building, deploying, and automating CI/CD workflows.</br>
+🔹 [Argo CD](https://argo-cd.readthedocs.io/en/stable/) (Open Source) – GitOps-driven CD tool for Kubernetes with declarative deployments.</br>
+🔹 [Flux CD](https://fluxcd.io/) (Open Source) – Automates container deployments to Kubernetes using GitOps principles.</br>
+🔹 [Go CD](https://www.gocd.org/) (Open Source) – Workflow visualization for modeling and executing complex delivery pipelines.</br>
+🔹 [GitLab CD](https://docs.gitlab.com/ci/) (Free & Enterprise) – Integrated CD solution within GitLab for automated deployment and monitoring.</br>
+🔹 [Weave GitOps](https://www.weave.works/oss/gitops/) (Enterprise) – Enterprise-grade GitOps framework for managing applications and infrastructure.</br>
+🔹 [Jenkins X](https://jenkins-x.io/) (Open Source) – Kubernetes-native automated CI/CD with preview environments.</br>
+🔹 [Tekton](https://tekton.dev/) (Open Source) – Flexible CI/CD framework for cloud-native continuous delivery workflows.</br>
+
+# 🏗️ Infrastructure Provisioning Tools
+Infrastructure provisioning tools automate the setup and management of cloud and on-premises resources, ensuring scalability, consistency, and efficiency in deployments.
+
+## 🌍 Top Infrastructure-as-Code (IaC) Tools
+🔹 [Terraform](https://developer.hashicorp.com/terraform) (Open Source & Enterprise) – Declarative infrastructure as code (IaC) tool supporting multiple cloud providers.</br>
+🔹 [Pulumi](https://www.pulumi.com/) (Open Source & Enterprise) – IaC tool using familiar programming languages (Python, Go, JavaScript, etc.).</br>
+🔹 [AWS CloudFormation](https://aws.amazon.com/cloudformation/) (AWS Service) – Native AWS IaC solution for defining and provisioning AWS resources.</br>
+🔹 [Azure Resource Manager (ARM)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview) (Azure Service) – Native Azure IaC tool for managing resources declaratively.</br>
+🔹 [Azure Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) (Azure Service) – Simplified ARM template alternative with a cleaner syntax for managing Azure resources.</br>
+
+# 🔄 Backup & Restoration Tools
+Backup and restoration tools ensure data protection, disaster recovery, and business continuity by securely backing up and restoring applications and infrastructure.
+
+## 🔥 Best Tools for Backup & Disaster Recovery
+🔹 [Velero](https://velero.io/) (Open Source) – Backup & restore Kubernetes clusters, perform disaster recovery, and migrate persistent volumes.</br>
+🔹 [Kasten K10](https://www.veeam.com/products/cloud/kubernetes-data-protection.html) (Free & Enterprise) – Enterprise-grade Kubernetes backup & recovery platform with robust automation.</br>
+🔹 [CloudCasa](https://cloudcasa.io/) (Free & Enterprise) – Cloud-native Kubernetes backup & disaster recovery with automated workflows.</br>
+
+# 💰 Cloud Cost Management Tools
+Cloud cost management tools help organizations monitor, analyze, and optimize cloud spending, ensuring cost efficiency while maintaining performance.
+
+## 📊 Best Cloud Cost Optimization Tools
+🔹 [InfraCost](https://www.infracost.io/) (Open Source) – Cost estimation for Terraform, providing real-time insights into infrastructure expenses.</br>
+🔹 [Kubecost](https://www.apptio.com/products/kubecost/?src=kc-com) (Open Source) – Kubernetes cost visibility & optimization, helping monitor cluster spending and resource allocation.</br>
