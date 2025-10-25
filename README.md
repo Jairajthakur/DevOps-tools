@@ -124,7 +124,6 @@ Continuous Integration (CI) automates code integrations, providing **instant fee
 🔹 [RazorOps CICD](https://razorops.com/) (Free & Paid) – Container-first CI/CD SaaS and on-premises solutions.</br>
 🔹 [Buildkite](https://buildkite.com/) (Free & Paid) – Self-hosted CI/CD with scalable build agents.</br>
 
-
 ---
 
 # 📦 Artifact Management Tools
@@ -135,6 +134,8 @@ Artifact management tools store and version **compiled binaries and dependencies
 🔹 [JFrog Artifactory](https://jfrog.com/artifactory/) (Enterprise) – End-to-end binary and artifact management solution.</br>
 🔹 [npm](https://www.npmjs.com/) (Free) – JavaScript package manager for dependency management.</br>
 🔹 [NuGet](https://www.nuget.org/) (.NET) (Free) – Package manager for .NET libraries and applications.</br>
+
+---
 
 # 🔍 Code Analysis Tools</br>
 Code analysis tools identify bugs, security flaws, and code quality issues before deployment, helping developers improve software reliability.</br>
@@ -149,6 +150,8 @@ Code analysis tools identify bugs, security flaws, and code quality issues befor
 🔹 [PMD](https://pmd.github.io/) (Open Source) – Multi-language static code analyzer for detecting common programming mistakes.</br>
 🔹 [Acunetix](https://www.acunetix.com/) (Enterprise) – DAST web vulnerability scanner that autonomously detects security risks.</br>
 
+---
+
 # ⚡ Continuous Delivery (CD) & GitOps Tools
 Continuous Delivery (CD) ensures that software can be reliably deployed at any time, enabling frequent releases with minimal risk. GitOps, a subset of DevOps, leverages Git as a single source of truth to manage declarative infrastructure and applications.</br>
 
@@ -162,6 +165,8 @@ Continuous Delivery (CD) ensures that software can be reliably deployed at any t
 🔹 [Jenkins X](https://jenkins-x.io/) (Open Source) – Kubernetes-native automated CI/CD with preview environments.</br>
 🔹 [Tekton](https://tekton.dev/) (Open Source) – Flexible CI/CD framework for cloud-native continuous delivery workflows.</br>
 
+---
+
 # 🏗️ Infrastructure Provisioning Tools
 Infrastructure provisioning tools automate the setup and management of cloud and on-premises resources, ensuring scalability, consistency, and efficiency in deployments.
 
@@ -172,6 +177,8 @@ Infrastructure provisioning tools automate the setup and management of cloud and
 🔹 [Azure Resource Manager (ARM)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview) (Azure Service) – Native Azure IaC tool for managing resources declaratively.</br>
 🔹 [Azure Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) (Azure Service) – Simplified ARM template alternative with a cleaner syntax for managing Azure resources.</br>
 
+---
+
 # 🔄 Backup & Restoration Tools
 Backup and restoration tools ensure data protection, disaster recovery, and business continuity by securely backing up and restoring applications and infrastructure.
 
@@ -179,6 +186,8 @@ Backup and restoration tools ensure data protection, disaster recovery, and busi
 🔹 [Velero](https://velero.io/) (Open Source) – Backup & restore Kubernetes clusters, perform disaster recovery, and migrate persistent volumes.</br>
 🔹 [Kasten K10](https://www.veeam.com/products/cloud/kubernetes-data-protection.html) (Free & Enterprise) – Enterprise-grade Kubernetes backup & recovery platform with robust automation.</br>
 🔹 [CloudCasa](https://cloudcasa.io/) (Free & Enterprise) – Cloud-native Kubernetes backup & disaster recovery with automated workflows.</br>
+
+---
 
 # 💰 Cloud Cost Management Tools
 Cloud cost management tools help organizations monitor, analyze, and optimize cloud spending, ensuring cost efficiency while maintaining performance.
