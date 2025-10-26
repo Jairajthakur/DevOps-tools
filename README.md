@@ -195,3 +195,40 @@ Cloud cost management tools help organizations monitor, analyze, and optimize cl
 ## 📊 Best Cloud Cost Optimization Tools
 🔹 [InfraCost](https://www.infracost.io/) (Open Source) – Cost estimation for Terraform, providing real-time insights into infrastructure expenses.</br>
 🔹 [Kubecost](https://www.apptio.com/products/kubecost/?src=kc-com) (Open Source) – Kubernetes cost visibility & optimization, helping monitor cluster spending and resource allocation.</br>
+
+---
+
+# ⚙️ Configuration Management Tools
+Configuration management tools automate server and application configurations, ensuring consistency, reliability, and repeatability across environments.
+
+## 🔥 Top Configuration Management Tools
+🔹 [Ansible](https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ) (Open Source & Enterprise) – Agentless automation for configuration management, application deployment, and IT orchestration.
+🔹 [Chef](https://www.chef.io/) (Open Source & Enterprise) – Automates infrastructure by defining it as code, ensuring consistent deployment across environments.
+🔹 [Puppet](https://www.puppet.com/) (Open Source & Enterprise) – Declarative infrastructure automation for configuration management across Unix & Windows.
+🔹 [SaltStack](https://www.saltstack.com/) (Open Source & Enterprise) – Scalable remote execution and automation for managing and securing infrastructure.
+
+---
+
+# 🔐 Secret Management Tools
+Secret management tools secure sensitive data such as API keys, passwords, certificates, and tokens, ensuring controlled access and encryption.
+
+## 🛡️ Best Tools for Secure Secret Management
+🔹 [HashiCorp Vault](https://developer.hashicorp.com/vault) (Open Source & Enterprise) – Securely stores and manages secrets with tight access controls and auditing.
+🔹 [External Secrets Operator](https://github.com/external-secrets/kubernetes-external-secrets) (Open Source) – Integrates Kubernetes with cloud-based secret stores for secure management.
+🔹 [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) – Fully managed AWS secret storage, allowing secure access to credentials and API keys.
+🔹 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager/docs) – Google Cloud’s secure vault for storing API keys, passwords, and certificates.
+🔹 [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) – Microsoft Azure’s solution for managing cryptographic keys, secrets, and certificates.
+🔹 [Teller](https://tlr.dev/) (Open Source) – Developer-friendly secret management tool supporting multi-cloud applications and secure storage.
+
+---
+
+# 🔎 Config & Service Discovery Tools
+Config and service discovery tools help distributed applications manage configuration data dynamically and locate services without hardcoded dependencies.
+
+## ⚡ Best Tools for Config & Service Discovery
+🔹 [Consul](https://developer.hashicorp.com/consul) (Open Source & Enterprise) – Service discovery, health checks, and key-value storage for highly scalable applications.
+🔹 [Etcd](https://etcd.io/) (Open Source) – Highly available key-value store used for distributed systems and Kubernetes configurations.
+🔹 [Apache ZooKeeper](https://zookeeper.apache.org/) (Open Source) – Centralized service registry for distributed synchronization, configuration management, and naming services.
+🔹 [Eureka](https://github.com/Netflix/eureka) (Open Source) – Netflix’s service registry for microservices discovery and failover handling.
+
+---
