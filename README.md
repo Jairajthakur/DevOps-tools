@@ -232,3 +232,73 @@ Config and service discovery tools help distributed applications manage configur
 🔹 [Eureka](https://github.com/Netflix/eureka) (Open Source) – Netflix’s service registry for microservices discovery and failover handling.</br>
 
 ---
+
+# 📦 Containerization Tools
+Containerization tools package applications and their dependencies into containers, ensuring portability and consistency across environments.
+
+## 🛠️ Popular Containerization Tools</br>
+🔹 [Docker](https://www.docker.com/) (Open Source & Enterprise) – The most widely used platform for building, shipping, and running containers.</br>
+🔹 [Podman](https://podman.io/) (Open Source) – Daemonless container engine with a Docker-compatible CLI, focusing on security and rootless operations.</br>
+🔹 [Buildah](https://buildah.io/) (Open Source) – A CLI tool for building and managing OCI-compliant container images, complementing Podman.</br>
+🔹 [rkt](https://github.com/rkt/rkt) (Open Source) – A lightweight and secure container runtime designed for cloud-native applications.</br>
+🔹 [CRI-O](https://cri-o.io/) (Open Source) – Lightweight Kubernetes runtime, allowing Kubernetes to run any OCI-compliant container.</br>
+
+---
+
+# 🎛️ Container Orchestration Tools
+Container orchestration tools automate container deployment, scaling, networking, and availability in distributed environments.
+
+## 🔥 Best Container Orchestration Platforms
+🔹 [Kubernetes](https://kubernetes.io/) (Open Source) – The industry-standard for automating containerized application deployment and management.</br>
+🔹 [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) (Open Source & Enterprise) – Red Hat’s Kubernetes-based container platform with enterprise-grade features.</br>
+🔹 [Nomad](https://developer.hashicorp.com/nomad) (Open Source & Enterprise) – A lightweight and flexible orchestrator supporting both containers and non-containerized applications.</br>
+🔹 [k3s](https://k3s.io/) (Open Source) – Lightweight Kubernetes distribution, ideal for edge computing and small-scale deployments.</br>
+
+---
+
+# 🔒 Container Security Tools
+Container security tools protect containerized environments from vulnerabilities, threats, and compliance issues.
+
+## 🛡️ Top Security Solutions for Containers
+🔹 [Docker Bench](https://github.com/docker/docker-bench-security) (Open Source) – Audits Docker configurations against security best practices.</br>
+🔹 [Clair](https://github.com/quay/clair) (Open Source) – Scans container images for known vulnerabilities before deployment.</br>
+🔹 [Anchore Engine](https://anchore.com/opensource/) (Open Source) – Policy-based container image security scanning for compliance checks.</br>
+🔹 [AquaSec](https://www.aquasec.com/) (Enterprise) – End-to-end container security covering scanning, runtime protection, and compliance.</br>
+🔹 [Notary](https://github.com/notaryproject/notary) (Open Source) – Ensures content trust by verifying digital signatures of container images.</br>
+🔹 [Falco](https://falco.org/) (Open Source) – Runtime security monitoring for detecting anomalous container behavior.</br>
+🔹 [Trivy](https://github.com/aquasecurity/trivy) (Open Source) – A fast and easy-to-use vulnerability scanner for container images.</br>
+🔹 [Twistlock](https://www.paloaltonetworks.com/prisma/cloud) (Prisma Cloud) (Enterprise) – Comprehensive security for containers and Kubernetes, now part of Prisma Cloud.</br>
+
+---
+
+# 📜 Policy Management Tools
+Policy management tools enforce security, compliance, and governance policies in cloud-native environments.
+
+## ⚖️ Best Tools for Policy Enforcement
+🔹 [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) (Open Source) – A general-purpose policy engine that enables fine-grained access control.</br>
+🔹 [Kyverno](https://kyverno.io/) (Open Source) – Kubernetes-native policy engine, allowing validation, mutation, and generation of configurations.</br>
+🔹 [Cloud Custodian](https://cloudcustodian.io/) (Open Source) – Cloud governance as code, enforcing security and compliance policies across cloud platforms.</br>
+
+---
+
+# 🔗 Service Mesh Tools
+Service mesh tools manage service-to-service communication in microservices architectures, offering security, observability, and traffic control.
+
+## 🔥 Best Service Mesh Technologies
+🔹 [Istio](https://istio.io/) (Open Source) – Feature-rich service mesh for security, traffic management, and observability.</br>
+🔹 [Linkerd](https://linkerd.io/) (Open Source & Enterprise) – Lightweight and high-performance service mesh for Kubernetes.</br>
+🔹 [Cilium Service Mesh](https://cilium.io/) – Next-gen service mesh with advanced security, observability, and eBPF-powered networking.</br>
+
+---
+
+# 📜 Logging Tools
+Logging tools capture, store, and analyze logs to provide real-time insights into system performance, security, and troubleshooting.
+
+## 🛠️ Best Logging Solutions
+🔹 [ELK Stack](https://www.elastic.co/elastic-stack) (Open Source & Enterprise) – Elasticsearch + Logstash + Kibana, widely used for log aggregation, search, and visualization.</br>
+🔹 [Grafana Loki](https://grafana.com/oss/loki/) (Open Source & Enterprise) – Scalable log aggregation system, optimized for efficient and cost-effective log storage.</br>
+🔹 [Fluentd](https://www.fluentd.org/) (Open Source) – Unified logging layer, allowing logs to be collected, filtered, and routed to multiple destinations.</br>
+🔹 [Graylog](https://graylog.org/) (Open Source & Enterprise) – A centralized log management platform, ideal for real-time analytics on large-scale machine data.</br>
+🔹 [Logz.io](https://logz.io/) (Enterprise) – Cloud-native logging and security platform, offering managed ELK stack with AI-driven log analysis.</br>
+🔹 [Splunk](https://www.splunk.com/) (Enterprise) – A powerful analytics-driven log management platform, supporting machine learning and real-time monitoring.</br>
+🔹 [Syslog-ng](https://www.syslog-ng.com/) (Enterprise) – A flexible and scalable log collection tool, supporting multiple log sources and destinations.</br>
