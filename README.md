@@ -13,8 +13,8 @@ A collection of essential DevOps tools for **development, deployment, monitoring
 # 📌 Table of Contents
 🚀 [Development Environment Tools](#Development-Environment-Tools)<br>
 📝 [Source Code Management (SCM)](#Source-Code-Management-SCM)<br>
-⚙️ [Build Tools](#Build-Tools)<br>
-⚡ [Continuous Integration (CI) Tools](#Continuous-Interation-(CI)-Tools)<br>
+⚙️ [Build Tools](#build-tools)<br>
+⚡ [Continuous Integration (CI) Tools](#continuous-interation-ci-tools)<br>
 📦 [Artifact Management Tools](#Artifact-Management-Tools)<br>
 🔍 [Code Analysis Tools](#code-analysis-tools)<br>
 ⚡ [Continuous Delivery (CD) & GitOps Tools](#Continuous-Delivery-(CD)-&-GitOps-Tools)<br>
