@@ -489,3 +489,9 @@ The DevOps toolchain is evolving rapidly, with new tools emerging to enhance aut
 By leveraging the best tools in each category, organizations can achieve continuous delivery, improve collaboration, and optimize performance, ultimately leading to faster innovation and higher reliability. 🚀🔥
 
 ---
+
+👨‍💻 Author
+
+📧 Email: th.jairaj@gmail.com
+🌐 GitHub: github.com/Jairajthakur
+💼 LinkedIn: linkedin.com/in/jairajsinghchauhan
