@@ -492,6 +492,6 @@ By leveraging the best tools in each category, organizations can achieve continu
 
 👨‍💻 Author
 
-📧 Email: th.jairaj@gmail.com
-🌐 GitHub: github.com/Jairajthakur
-💼 LinkedIn: linkedin.com/in/jairajsinghchauhan
+📧 Email: th.jairaj@gmail.com</br>
+🌐 GitHub: github.com/Jairajthakur</br>
+💼 LinkedIn: linkedin.com/in/jairajsinghchauhan</br>
